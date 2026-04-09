@@ -1,0 +1,15 @@
+# 数据文件（太大，不提交）
+data/*.csv
+data/*.parquet
+
+# 模型输出（太大，不提交）
+outputs/*.pkl
+outputs/*.pt
+
+# Python
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# 系统文件
+.DS_Store
